@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #363636;
+  width: 100vw;
+  height: 100vh;
+
+  min-width: 600px;
+  min-height: 600px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.score {
+  text-align: center;
+  color: white;
+}
